@@ -1,0 +1,638 @@
+2009-06-24 21:56:10 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'costo' cannot be null</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-06-24 22:28:31 Warning: Warning (2): array_keys() [<a href='http://php.net/function.array-keys'>function.array-keys</a>]: The first argument should be an array in [CORE/cake/libs/view/scaffolds/view.ctp, line 123]
+2009-06-24 22:28:31 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/cake/libs/view/scaffolds/view.ctp, line 124]
+2009-06-24 22:28:31 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/cake/libs/view/scaffolds/view.ctp, line 139]
+2009-06-25 09:50:48 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1062: Duplicate entry '0' for key 1</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-06-25 09:50:48 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-25 09:51:40 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1062: Duplicate entry '0' for key 1</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-06-25 09:51:40 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-25 14:14:58 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:108) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-25 14:16:22 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-25 14:18:22 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:108) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-25 18:24:23 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`Detalle`.`cantidad` ASC  LIMIT 25' at line 1</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-06-25 18:24:23 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/productos/index.ctp, line 21]
+2009-06-25 18:26:48 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`Detalle`.`cantidad` ASC  LIMIT 25' at line 1</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-06-25 18:26:48 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/productos/index.ctp, line 21]
+2009-06-25 18:26:49 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`Detalle`.`cantidad` ASC  LIMIT 25' at line 1</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-06-25 18:26:49 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/productos/index.ctp, line 21]
+2009-06-25 18:43:57 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1140: Mixing of GROUP columns (MIN(),MAX(),COUNT(),...) with no GROUP columns is illegal if there is no GROUP BY clause</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-06-25 18:43:57 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/cake/libs/model/datasources/dbo_source.php, line 915]
+2009-06-25 18:44:51 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1140: Mixing of GROUP columns (MIN(),MAX(),COUNT(),...) with no GROUP columns is illegal if there is no GROUP BY clause</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-06-25 18:44:51 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/cake/libs/model/datasources/dbo_source.php, line 915]
+2009-06-25 18:44:53 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1140: Mixing of GROUP columns (MIN(),MAX(),COUNT(),...) with no GROUP columns is illegal if there is no GROUP BY clause</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-06-25 18:44:53 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/cake/libs/model/datasources/dbo_source.php, line 915]
+2009-06-25 18:46:40 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1140: Mixing of GROUP columns (MIN(),MAX(),COUNT(),...) with no GROUP columns is illegal if there is no GROUP BY clause</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-06-25 18:46:40 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/cake/libs/model/datasources/dbo_source.php, line 915]
+2009-06-25 18:54:41 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1140: Mixing of GROUP columns (MIN(),MAX(),COUNT(),...) with no GROUP columns is illegal if there is no GROUP BY clause</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-06-25 18:54:41 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/cake/libs/model/datasources/dbo_source.php, line 915]
+2009-06-25 18:59:35 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20' at line 1</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-06-25 18:59:35 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/cake/libs/model/datasources/dbo_source.php, line 915]
+2009-06-25 19:01:11 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 group by Det' at line 1</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-06-25 19:01:11 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/cake/libs/model/datasources/dbo_source.php, line 915]
+2009-06-25 19:04:53 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group by Detalle.producto_id' at line 1</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-06-25 19:04:53 Warning: Warning (2): Invalid argument supplied for foreach() in [CORE/cake/libs/model/datasources/dbo_source.php, line 915]
+2009-06-25 20:28:47 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/detalles/existencia.ctp, line 3]
+2009-06-25 20:28:48 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/detalles/existencia.ctp, line 3]
+2009-06-25 20:28:49 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/detalles/existencia.ctp, line 3]
+2009-06-25 20:28:50 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/detalles/existencia.ctp, line 3]
+2009-06-25 20:28:50 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/detalles/existencia.ctp, line 3]
+2009-06-25 20:28:51 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/detalles/existencia.ctp, line 3]
+2009-06-25 20:28:52 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/detalles/existencia.ctp, line 3]
+2009-06-25 20:28:53 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/detalles/existencia.ctp, line 3]
+2009-06-25 20:37:06 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Producto.id' in 'where clause'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-06-27 17:28:20 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-27 17:28:21 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-27 17:28:44 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-27 17:28:44 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-27 17:28:46 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-27 17:28:46 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-27 17:28:58 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-27 17:28:58 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-27 17:29:23 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-27 17:29:23 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-27 17:29:47 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Productos/index in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-27 17:29:47 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-27 17:29:49 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Productos/index in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-27 17:29:49 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-27 17:29:50 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Productos/index in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-27 17:29:50 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-27 17:29:51 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Productos/index in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-27 17:29:51 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-27 17:29:51 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Productos/index in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-27 17:29:51 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-27 17:29:52 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Productos/index in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-27 17:29:52 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-27 17:29:52 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Productos/index in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-27 17:29:52 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-27 17:29:53 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Productos/index in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-27 17:29:53 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-27 17:38:50 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-27 17:38:50 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:50:22 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Productos/index in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:50:22 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:53:15 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Productos/index in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:53:15 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:53:18 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:53:18 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:53:19 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:53:19 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:53:21 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:53:21 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:53:21 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:53:21 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:53:22 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:53:22 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:53:22 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:53:22 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:53:25 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:53:25 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:55:40 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: controllers/Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:55:40 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:55:41 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: controllers/Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:55:41 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:55:42 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: controllers/Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:55:42 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:55:43 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: controllers/Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:55:43 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:55:44 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: controllers/Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:55:44 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:55:44 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: controllers/Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:55:44 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:55:45 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: controllers/Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:55:45 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:55:46 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: controllers/Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:55:46 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:55:47 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: controllers/Pages/display in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:55:47 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:56:03 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: controllers/Productos/index in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:56:03 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:56:05 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: controllers/Productos/index in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:56:05 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 20:56:06 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 1
+            [username] => msamour
+            [group_id] => 1
+            [created] => 2009-06-27 17:24:10
+            [modified] => 2009-06-27 17:24:10
+        )
+
+)
+
+Aco: controllers/Productos/index in [CORE/cake/libs/controller/components/acl.php, line 239]
+2009-06-30 20:56:06 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/cake/cake_1.2/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 640]
+2009-06-30 21:08:11 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/productos/index.ctp, line 7]
+2009-06-30 21:08:12 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/productos/index.ctp, line 7]
+2009-06-30 21:08:12 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/productos/index.ctp, line 7]
+2009-06-30 21:09:01 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/productos/index.ctp, line 7]
+2009-06-30 21:09:01 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/productos/index.ctp, line 7]
+2009-06-30 21:19:31 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`Lineas`.`Nombre` 
+		FROM `productos` AS `Producto`  LEFT JOIN
+		detalles ON Pro' at line 2</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-06-30 21:19:31 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/productos/index.ctp, line 7]
+2009-06-30 21:19:32 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`Lineas`.`Nombre` 
+		FROM `productos` AS `Producto`  LEFT JOIN
+		detalles ON Pro' at line 2</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-06-30 21:19:32 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/productos/index.ctp, line 7]
+2009-07-11 12:00:17 Warning: Warning (512): /var/www/cake/cake_1.2/app/tmp/cache/ is not writable in [CORE/cake/libs/cache/file.php, line 263]
+2009-07-13 10:26:55 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/empresas/lista.ctp, line 12]
+2009-07-13 10:30:40 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/empresas/lista.ctp, line 12]
+2009-07-13 10:30:42 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/empresas/lista.ctp, line 12]
+2009-07-13 10:31:24 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/empresas/lista.ctp, line 12]
+2009-07-13 10:31:42 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/empresas/lista.ctp, line 12]
+2009-07-13 10:32:12 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/empresas/lista.ctp, line 12]
+2009-07-13 10:32:12 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/empresas/lista.ctp, line 12]
+2009-07-14 14:15:19 Warning: Warning (2): unlink(/var/www/cake/cake_1.2/app/tmp/cache/persistent/cake_core_core_paths) [<a href='http://php.net/function.unlink'>function.unlink</a>]: No such file or directory in [CORE/cake/libs/file.php, line 292]
+2009-07-14 15:54:05 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Bodega.1' in 'field list'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-07-14 16:08:03 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Bodega.id' in 'where clause'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-07-14 16:08:03 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/detalles/existencia.ctp, line 3]
+2009-07-14 16:08:03 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Bodega.id' in 'where clause'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-07-14 16:08:03 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/detalles/existencia.ctp, line 3]
+2009-07-14 16:08:07 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Bodega.id' in 'where clause'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-07-14 16:08:07 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/detalles/existencia.ctp, line 3]
+2009-07-14 16:08:08 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Bodega.id' in 'where clause'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-07-14 16:08:08 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/detalles/existencia.ctp, line 3]
+2009-07-14 16:08:12 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Bodega.id' in 'where clause'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-07-14 16:08:12 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/detalles/existencia.ctp, line 3]
+2009-07-14 16:08:15 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Bodega.id' in 'where clause'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2009-07-14 16:08:15 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/detalles/existencia.ctp, line 3]
+2009-07-21 17:19:31 Warning: Warning (512): /home/msamour/cake_1.2/app/tmp/cache/ is not writable in [CORE/cake/libs/cache/file.php, line 263]

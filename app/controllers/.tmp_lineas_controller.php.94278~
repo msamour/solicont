@@ -1,0 +1,7 @@
+<?php
+class LineasController extends AppController {
+
+	var $name = 'Lineas';
+	var $scaffold;
+}
+?>
